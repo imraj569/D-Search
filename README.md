@@ -13,7 +13,7 @@
 * `apt upgrade`
 * `pkg install python git -y`
 * `git clone https://github.com/imraj569/D-Search`
-* `cd DSearch`
+* `cd D-Search`
 * `ls`
 * `pip install -r requirements.txt`
 * `python DSearch.py`
