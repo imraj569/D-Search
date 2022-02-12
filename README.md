@@ -1,8 +1,8 @@
 *<img width="520" alt="d-search" src="https://user-images.githubusercontent.com/53007802/153701170-2d5b275c-c742-4124-9c73-a718dfef8ba4.png">
 # D-Search
--D-Search is a searching tool made with python.
--it use google dork for getting results. 
--This tool helps people in their daily life and save their times.
+* D-Search is a web searching tool made with python.
+* it use google dork for getting direct results. 
+* This tool helps people in their daily life and save their times.
 # Requirements 
 * git
 * python
