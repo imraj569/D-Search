@@ -13,6 +13,7 @@
 * `git clone https://github.com/imraj569/D-Search` (make sure git installed in your system)
 * `cd D-Search`
 * `ls`
+* `cd D-Search`
 * `pip install -r requirements.txt`
 * `python DSearch.py`
 # Screenshoot
