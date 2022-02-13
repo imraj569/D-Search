@@ -3,16 +3,14 @@
 * D-Search is a web searching tool made with python.
 * it use google dork for getting direct results. 
 * This tool helps people in their daily life and save their times.
-* you can use this tool in your windows,linux & anroid devices.
+* you can use this tool in your windows os.
 # Requirements 
 * git
 * python
-* termux app or terminal of your pc/linux os
-# Instalation [Termux] Android
-* `apt update`
-* `apt upgrade`
-* `pkg install python git -y`
-* `git clone https://github.com/imraj569/D-Search`
+* pc windows
+# Instalation 
+* `just download this and extract or`
+* `git clone https://github.com/imraj569/D-Search` (make sure git installed in your system)
 * `cd D-Search`
 * `ls`
 * `pip install -r requirements.txt`
