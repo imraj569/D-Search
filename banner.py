@@ -2,8 +2,16 @@ import colorama
 from colorama import Fore
 colorama.init(autoreset=True)
 import random
+import os
+
+def clear_screen():
+    if os.name == 'nt':
+        os.system("cls")
+    else:
+        os.system("clear")
 
 def ban():
+    clear_screen()
     a = (Fore.BLUE + '''
 
 ██████╗░░░░░░░░██████╗███████╗░█████╗░██████╗░░█████╗░██╗░░██╗
@@ -15,7 +23,7 @@ def ban():
     
                                             Author : Rajkishor patra
                                             version : 0.1  
----------------------------------------------------------------''')
+---------------------------------------------------------------'''),
     b = (Fore.LIGHTGREEN_EX + '''
     
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
